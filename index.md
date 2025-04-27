@@ -7,16 +7,21 @@
 
 ## Step 2: Add an image  
 ![Yaktocat Illustration](https://octodex.github.com/images/yaktocat.png)
-
-## Step 3: Add a Code Example
-
-```javascript
-var myVar = "Hello, world!";
 ## Step 4: Make a task list
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+## Step 3: Add a Code Example
+
+```javascript
+var myVar = "Hello, world!";
+```
+## Step 4: Make a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
